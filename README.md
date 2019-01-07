@@ -28,4 +28,10 @@
 	新加了：Java23种设计模式， 玩转数据结构
 	https://pan.baidu.com/s/1WsJlRXzi9_3eWdCHbnFbng
 	
+6. 36-40阶段更新链接：
+	新加了：RabbitMQ，Netty4源码剖析，Activiti6工作流开发，Spring核心技术， Spring注解驱动（源码剖析）
+	https://pan.baidu.com/s/1WdjDmiEhtT0IfB6ZjzsYuw    （加密版）
+	https://pan.baidu.com/s/1zK5_9BbmAcyJHcUIT9UGGA    （不加密版）
+	
+	
 ```
