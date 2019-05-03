@@ -33,5 +33,9 @@
 	https://pan.baidu.com/s/1WdjDmiEhtT0IfB6ZjzsYuw    （加密版）
 	https://pan.baidu.com/s/1zK5_9BbmAcyJHcUIT9UGGA    （不加密版）
 	
+7. 40-45阶段更新链接：
+	新加了：Dubbo快速学习，Kafka从初识到实战，Git与GitHub与GitLab精讲合集，死磕Hibernate， RabbitMQ消息中间件技术精讲
+	https://pan.baidu.com/s/1uGal6lNxP0AcDNDWrZuJRw  opq5  （加密版）
+	https://pan.baidu.com/s/1pYJDgFPcFLpqT9Keak0rtw  8egp  （不加密版）
 	
 ```
