@@ -30,7 +30,7 @@
 	
 6. 36-40阶段更新链接：
 	新加了：RabbitMQ，Netty4源码剖析，Activiti6工作流开发，Spring核心技术， Spring注解驱动（源码剖析）
-	https://pan.baidu.com/s/1WdjDmiEhtT0IfB6ZjzsYuw    （加密版）
+	https://pan.baidu.com/s/1WdjDmiEhtT0IfB6ZjzsYuw 
 	
 7. 41-45阶段更新链接：
 	新加了：Dubbo快速学习，Kafka从初识到实战，Git与GitHub与GitLab精讲合集，死磕Hibernate， RabbitMQ消息中间件技术精讲
