@@ -34,7 +34,7 @@
 	
 7. 41-45阶段更新链接：
 	新加了：Dubbo快速学习，Kafka从初识到实战，Git与GitHub与GitLab精讲合集，死磕Hibernate， RabbitMQ消息中间件技术精讲
-	https://pan.baidu.com/s/1uGal6lNxP0AcDNDWrZuJRw  opq5  （加密版）
+	https://pan.baidu.com/s/1uGal6lNxP0AcDNDWrZuJRw  opq5
 8. 46-51阶段更新链接：
 	新加了：Maven入门到精通，Mysql性能优化宝典，ElasticSearch入门和基础，ElasticSearch高级和进阶，Android安卓开发实战（超详细），Linux起飞前必备基础
 	https://pan.baidu.com/s/1FWnvrQ3tp6h3-QWcNNUm_w  ghvj  （加密版）
