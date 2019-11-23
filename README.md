@@ -42,7 +42,10 @@
 	
 9. 52-55阶段更新链接：
 	新加了：搞定Docker容器引擎，分布式之Zookeeper，并发编程与高并发解决方案（强烈推荐），高并发案例实战之Java秒杀
-	https://pan.baidu.com/s/1B9yVFRnurAlXHjh40JM0rA  （加密版）
-	https://pan.baidu.com/s/1UY4DezfT7UJTHmQ82pjC7A  （不加密版）
+	https://pan.baidu.com/s/1B9yVFRnurAlXHjh40JM0rA
 	
+10.57-59阶段更新链接：
+	新加了Go语言编程基础， Lua语言编程基础， Python语言编程基础
+	https://pan.baidu.com/s/1A1GKGrX34zWbRYfaP4TLnw    （加密版）
+	https://pan.baidu.com/s/1t9AdQp2NQAu-eQgLdgGEIg   （不加密版）
 ```
