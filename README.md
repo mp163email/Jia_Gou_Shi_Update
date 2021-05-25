@@ -46,6 +46,14 @@
 	
 10.56-58阶段更新链接：
 	新加了Go语言编程基础， Lua语言编程基础， Python语言编程基础
-	https://pan.baidu.com/s/1A1GKGrX34zWbRYfaP4TLnw    （加密版）
-	https://pan.baidu.com/s/1t9AdQp2NQAu-eQgLdgGEIg   （不加密版）
+	https://pan.baidu.com/s/1A1GKGrX34zWbRYfaP4TLnw
+	
+11.59-63阶段更新链接：
+	新加了Redis+Jedis+案例实战, 决胜JVM三部曲, Apache Flume分布式日志收集框架快速上手，Docker虚拟化容器技术，K8s 服务器集群技术从入门到实战
+	链接：https://pan.baidu.com/s/1EJdNkUadVwqkYTe5dGQDdA 
+	提取码：7p8j 
+12.64-65阶段更新链接：
+    新加了Kafka设计原理和集群部署， 机器学习
+	链接：https://pan.baidu.com/s/1ZdkdrDoY8Otf_XfyQ7xrUw 
+	提取码：5x4k 
 ```
